@@ -7,8 +7,8 @@
 <hr>
 
 <div>
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=azorlin&show_icons=true&theme=monokai">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azorlin&hide_progress=true&theme=monokai">
+  <img height="180em" width = "45%" src = "https://github-readme-stats.vercel.app/api?username=azorlin&show_icons=true&theme=monokai">
+  <img height="180em" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azorlin&hide_progress=true&theme=monokai">
 </div>
 
 <hr>
